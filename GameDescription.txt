@@ -1,0 +1,10 @@
+CSEN401: Game instructions file
+1.While seeing the first view the players get a screen of the five Heroes click 1 time to select the hero of player1 and another one afterwards to select the hero of player2.
+2.The Current Hero plays a minion by left clicking on it once afterwards the minions appears on the field.
+3.To cast a Hero target spell left click on a spell once and then left click on the wanted hero button either Hero A or Hero B
+4.The Current player left click on the minion on the field once and then left clicks on the wanted minion on the other side of the field or if the attack is edsignated for the opponent hero then you you click on the Hero B button
+5.Left click the endTurn button to the right of the screen once a switch then happens and then it's the other player's turn.
+6.The current Hero is always oriented at the buttom half of the screen and the opponent is on the opposite side of him.
+7.Hero A represents the current hero and hero B represents the opponent Hero.
+8.At some instances while trying the game the response upon clicking on Hero B button was delayed a time interval of 10 seconds,However it is not very common.
+9.When an exception messege shows up close it with the x icon not the ok button.
